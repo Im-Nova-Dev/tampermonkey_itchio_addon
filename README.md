@@ -1,7 +1,7 @@
 # tampermonkey_itchio_addon
 tamper monkey script to do market research on itch.io
 
-
+fully vibecoded as i dont write what ever language that is lol
 ```
 // ==UserScript==
 // @name         ItchNova – Market Intel
